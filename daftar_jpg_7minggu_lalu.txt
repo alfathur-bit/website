@@ -1,0 +1,2 @@
+./hr/documents/hr_design.jpg
+./hr/archives/hr_design.jpg

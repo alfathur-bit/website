@@ -1,0 +1,2 @@
+./marketing/documents/marketing_report.pdf
+./marketing/archives/marketing_report.pdf
